@@ -1,0 +1,21 @@
+img{max-width:100%;
+height:auto;}
+
+body {
+
+	background-image:url("bgmm2.jpg");
+	background-size:100%;
+	font-family:"serif";
+}
+
+#agenda > h1 {
+	color:#ff3421;
+}
+
+#intro > h3 {
+	color:purple;
+}
+
+#intro > p {
+	color:#ffdddd;
+}
